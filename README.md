@@ -21,7 +21,7 @@ The aim of this is to take the video you would like to play on the Thumby, and c
 
 This is a three step process.
 
-1. Place your selected video into the starting location. Place this into your clone of this git repository and name it something like `input.gif`. You should be able to put any video into this location.
+1. Find a video to use, then place it into your clone of this git repository and name it `input.gif` or something similar. You should be able to put any video into this location.
 ```bash
 cp myvideo.gif input.gif
 ```
