@@ -3,7 +3,7 @@
 
 Example application for creating and loading 2 bit grayscale videos onto a Thumby.
 
-This uses Timendus' grayscale library (https://github.com/Timendus/thumby-grayscale), which is aiming to be included in the Thumby standard API. At time of writing, a compatible thumbyGrayscalelibrary can be obtained from the dropInReady branch. This isn't fully supported on the code.thumby.us Code Editor and Emulator, but you can launch your own server with the grayscale fork (https://github.com/fuglaro/TinyCircuits-Thumby-Code-Editor) which we hope to push upstream. Otherwise you can load it direct to your Thumby device, or just use the Fast Execute feature on code.thumby.us.
+This uses Timendus' grayscale library (https://github.com/Timendus/thumby-grayscale), which is aiming to be included in the Thumby standard API. At time of writing, a compatible thumbyGrayscale.py library file can be obtained from the dropInReady branch. This isn't fully supported on the code.thumby.us Code Editor and Emulator, but you can launch your own server with the grayscale fork (https://github.com/fuglaro/TinyCircuits-Thumby-Code-Editor) which we hope to push upstream. Otherwise you can load it direct to your Thumby device, or just use the Fast Execute feature on code.thumby.us.
 
 Note that the Thumby doesn't have a large amount of device storage, so don't expect to be playing a whole movie with this.
 
