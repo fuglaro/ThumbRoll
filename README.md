@@ -48,6 +48,6 @@ Then create a `/Games/ThumbRoll` folder on your Thumby and load the following fi
 * vid.BIT.bin
 * vid.SHD.bin
 
-If you have used a different Frame Rate or Resolution was in this example, you will have to adjust these parameters in the ThumbRoll.py file.
+If you have used a different Frame Rate or Resolution than was in this example, you will have to adjust these parameters in the ThumbRoll.py file.
 
 You should now be able to launch the ThumbRoll game on the Thumby, and the video will play.
