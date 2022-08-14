@@ -25,7 +25,7 @@ This is a three step process.
 ```bash
 cp myvideo.gif input.gif
 ```
-2. Transcode the video into a 2 bit grayscale gif with the desired frame rate and resolution. The frame rate should be equal to or lower than the source video. Update `input.gif` to the name of your source video, and update `30` to your desired frame rate, and update the resolution (scale), if you don't want a full screen video:
+2. Transcode the video into a 2 bit grayscale gif with the desired frame rate and resolution. The frame rate should be equal to or lower than the source video. In the following command, update `30` to your desired frame rate, and update the resolution (scale) if you don't want a full screen video. You may also have to update the input video name if you didn't use `input.gif`:
 ```bash
 ffmpeg -i input.gif -i palette.png -lavfi "fps=30,scale=72:40,paletteuse" processed.gif
 ```
