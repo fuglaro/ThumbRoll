@@ -38,7 +38,7 @@ python3 createShadedSprite.py
 
 Now that you have your two `bin` files making up a grayscale video with the correct colors and format, you can play it on the Thumby by using the example MicroPython code in `ThumbRoll.py`.
 
-First, and only if it doesn't already exist, load the thumbyGrayscale library:
+First, and only if it doesn't already exist, load the thumbyGrayscale library to your Thumby:
 
 * `thumbyGrayscale.py` (see above for where to find this) -> `/lib/thumbyGrayscale.py`
 
