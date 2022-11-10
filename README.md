@@ -1,5 +1,5 @@
 
-# Fireplace
+# Thumby Fireplace
 
 Example application for creating and loading 2 bit grayscale videos onto a Thumby.
 
